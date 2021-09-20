@@ -35,7 +35,7 @@
 ## Global Certification 🎓
 
 <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"    /> <b>[RedHat Certified Specialist in Ansible Automation](https://rhtapps.redhat.com/verify?certId=210-076-055) </b> <br>
-<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"    /> <b>[RedHat Certified Specialist in Kubernetes and Containers](https://rhtapps.redhat.com/verify?certId=210-076-055) </b>
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"    /> <b>[RedHat Certified Specialist in Containers and Kubernetes](https://rhtapps.redhat.com/verify?certId=210-076-055) </b>
 
 ## 📈 Stats
 <p align="center">
