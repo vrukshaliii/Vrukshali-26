@@ -29,9 +29,6 @@
 ### Cloud ☁
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
 
-### Databases ✔
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
 ## Global Certification 🎓
 
 <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"    /> <b>[RedHat Certified Specialist in Ansible Automation](https://rhtapps.redhat.com/verify?certId=210-076-055) </b> <br>
