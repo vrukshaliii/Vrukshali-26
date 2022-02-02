@@ -40,5 +40,5 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vrukshali-26&theme=highcontrast" />
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=Vrukshali-26&theme=react-dark&hide_border=true)
+<!--![](https://activity-graph.herokuapp.com/graph?username=Vrukshali-26&theme=react-dark&hide_border=true)-->
 
