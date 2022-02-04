@@ -34,10 +34,14 @@
 <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"    /> <b>[RedHat Certified Specialist in Ansible Automation](https://rhtapps.redhat.com/verify?certId=210-076-055) </b> <br>
 <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"    /> <b>[RedHat Certified Specialist in Containers and Kubernetes](https://rhtapps.redhat.com/verify?certId=210-076-055) </b>
 
+<!-- ## Profile Views🌱 
+![visitors](https://profile-counter.glitch.me/Vrukshali-26/count.svg?align=center)  -->
+
 ## 📈 Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vrukshali-26&show_icons=true&theme=highcontrast" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vrukshali-26&theme=highcontrast" />
+	<img src="https://profile-counter.glitch.me/Vrukshali-26/count.svg?align=center" />
 </p>
 
 <!--![](https://activity-graph.herokuapp.com/graph?username=Vrukshali-26&theme=react-dark&hide_border=true)-->
