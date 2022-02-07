@@ -12,6 +12,9 @@
 <a href="https://vrukshalitorawane.medium.com/">
   <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
+<a href="https://www.youtube.com/channel/UCSch4za59t6N2kYfZH-B_YQ">
+	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 <br> <br>
 
 🎓 I’m currently a junior pursuing my Bachelors in Computer Science & Engineering and have a strong interest in Open-Source💙 <br />
