@@ -58,10 +58,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#365](https://github.com/cncf/glossary/issues/365) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 💪 Opened PR [#8](https://github.com/bradmccoydev/terraform-modules/pull/8) in [bradmccoydev/terraform-modules](https://github.com/bradmccoydev/terraform-modules)
-3. 💪 Opened PR [#7](https://github.com/bradmccoydev/terraform-modules/pull/7) in [bradmccoydev/terraform-modules](https://github.com/bradmccoydev/terraform-modules)
-4. 🗣 Commented on [#7844](https://github.com/argoproj/argo-workflows/issues/7844) in [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
-5. 🗣 Commented on [#7852](https://github.com/argoproj/argo-workflows/issues/7852) in [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
+1. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
+2. ❗️ Opened issue [#3534](https://github.com/EddieHubCommunity/support/issues/3534) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
