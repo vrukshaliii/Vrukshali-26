@@ -39,7 +39,8 @@
 
 ## Achivements 🏆
 
-🚀 [Contributed to Argo Project](https://twitter.com/vrukshali26/status/1492142566510194688?s=20&t=mF-xV2oC4Eurs4KCNI7zKg)
+🚀 [Contributed to Argo Project](https://twitter.com/vrukshali26/status/1492142566510194688?s=20&t=mF-xV2oC4Eurs4KCNI7zKg) <br /><br />
+🚀 [Blog got featured at KCD Chennai Official Page](https://twitter.com/kcdchennai/status/1495769039813365761?s=20&t=jDSYAcHQZjt8iL4TXv1Dlw)
 <!-- ![visitors](https://profile-counter.glitch.me/Vrukshali-26/count.svg?align=center)  -->
 
 ## Global Certification 🎓
