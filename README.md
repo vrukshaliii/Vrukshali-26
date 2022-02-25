@@ -60,7 +60,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
-2. ❗️ Opened issue [#3534](https://github.com/EddieHubCommunity/support/issues/3534) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
 3. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
 4. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
 5. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
