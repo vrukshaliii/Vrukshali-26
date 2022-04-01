@@ -59,10 +59,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🗣 Commented on [#21](https://github.com/dokc/dokc.github.io/issues/21) in [dokc/dokc.github.io](https://github.com/dokc/dokc.github.io)
-3. 🎉 Merged PR [#206](https://github.com/bradmccoydev/mentoring/pull/206) in [bradmccoydev/mentoring](https://github.com/bradmccoydev/mentoring)
-4. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 💪 Opened PR [#103](https://github.com/dokc/how-to-dok/pull/103) in [dokc/how-to-dok](https://github.com/dokc/how-to-dok)
+1. 🗣 Commented on [#3224](https://github.com/oam-dev/kubevela/issues/3224) in [oam-dev/kubevela](https://github.com/oam-dev/kubevela)
+2. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🗣 Commented on [#21](https://github.com/dokc/dokc.github.io/issues/21) in [dokc/dokc.github.io](https://github.com/dokc/dokc.github.io)
+4. 🎉 Merged PR [#206](https://github.com/bradmccoydev/mentoring/pull/206) in [bradmccoydev/mentoring](https://github.com/bradmccoydev/mentoring)
+5. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
