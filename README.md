@@ -47,6 +47,7 @@
 
 👉🏻[RedHat Certified Specialist in Ansible Automation](https://rhtapps.redhat.com/verify?certId=210-076-055) <br> <br>
 👉🏻[RedHat Certified Specialist in Containers and Kubernetes](https://rhtapps.redhat.com/verify?certId=210-076-055) <br> <br>
+👉🏻[HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/badges/248af738-5b9c-42b2-84a7-ec1464541231/public_url) <br> <br>
 
 ## 📈 Stats
 <p align="center">
