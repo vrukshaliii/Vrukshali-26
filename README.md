@@ -60,8 +60,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Vrukshali-26/wecareforfurs/pull/1) in [Vrukshali-26/wecareforfurs](https://github.com/Vrukshali-26/wecareforfurs)
-2. 🎉 Merged PR [#210](https://github.com/bradmccoydev/mentoring/pull/210) in [bradmccoydev/mentoring](https://github.com/bradmccoydev/mentoring)
+1. 🗣 Commented on [#216](https://github.com/keptn/community/issues/216) in [keptn/community](https://github.com/keptn/community)
+2. 🎉 Merged PR [#1](https://github.com/Vrukshali-26/wecareforfurs/pull/1) in [Vrukshali-26/wecareforfurs](https://github.com/Vrukshali-26/wecareforfurs)
 3. 🗣 Commented on [#3224](https://github.com/oam-dev/kubevela/issues/3224) in [oam-dev/kubevela](https://github.com/oam-dev/kubevela)
 4. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
 5. 🗣 Commented on [#21](https://github.com/dokc/dokc.github.io/issues/21) in [dokc/dokc.github.io](https://github.com/dokc/dokc.github.io)
