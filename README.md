@@ -52,13 +52,3 @@
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Vrukshali-26&theme=tokyonight) -->
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Vrukshali-26/wecareforfurs/pull/1) in [Vrukshali-26/wecareforfurs](https://github.com/Vrukshali-26/wecareforfurs)
-2. 💪 Opened PR [#1](https://github.com/Vrukshali-26/wecareforfurs/pull/1) in [Vrukshali-26/wecareforfurs](https://github.com/Vrukshali-26/wecareforfurs)
-3. 🗣 Commented on [#216](https://github.com/keptn/community/issues/216) in [keptn/community](https://github.com/keptn/community)
-4. 🎉 Merged PR [#1](https://github.com/Vrukshali-26/wecareforfurs/pull/1) in [Vrukshali-26/wecareforfurs](https://github.com/Vrukshali-26/wecareforfurs)
-5. 🗣 Commented on [#21](https://github.com/dokc/dokc.github.io/issues/21) in [dokc/dokc.github.io](https://github.com/dokc/dokc.github.io)
-<!--END_SECTION:activity-->
-
