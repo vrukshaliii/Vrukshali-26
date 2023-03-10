@@ -22,14 +22,13 @@
 
 
 ## 🎓 About me
-I’m an Open-Source enthusiast. I am passionate about Backend Engineering & I enjoy learning new things. I founded Women in Cloud Native, a community that focuses on learning and growing in the cloud native space. I'm AWS Community Builder🧡 and Hashicorp Ambassador💜
+- I love working in Backend and Cloud. I love coding(converting coffee into code😉) and you will find me always working on something new or building new things.
+- I'm AWS Community Builder🧡
+- I'm enthusiastic about what I do and I constantly learn new things. 
+- In my spare time, you'll find me doing calligraphy, painting, writing blogs, and helping others in the community.
 
-I'm enthusiastic about what I do and I constantly learn new things. I have a strong desire to advance professionally. I am very flexible and adaptive to learning new things. I'm a creative, problem-solver and love to collaborate and meet new people. I love coding and you will find me always working on something new or building new things.
 
-In my spare time, you'll find me doing calligraphy, painting, writing blogs, and helping others in the community.
-
-
-##  ✔ Technologies 
+<!-- ##  ✔ Technologies  -->
 
 <!-- ### Languages⚡
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
