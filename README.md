@@ -12,9 +12,9 @@
 <a href="https://dev.to/vrukshali26">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/channel/UCSch4za59t6N2kYfZH-B_YQ">
+<!-- <a href="https://www.youtube.com/channel/UCSch4za59t6N2kYfZH-B_YQ">
 	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+</a> -->
 <a href="https://www.buymeacoffee.com/vrukshali">
 	<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
