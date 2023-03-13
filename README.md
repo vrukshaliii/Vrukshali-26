@@ -22,7 +22,7 @@
 
 
 ## 🎓 About me
-- I love working in Backend and Cloud. I love coding(converting coffee into code😉) and you will find me always working on something new or building new things.
+- I love working in Backend and Cloud. I love building and breaking stuffs.
 - I'm AWS Community Builder🧡
 - I'm enthusiastic about what I do and I constantly learn new things. 
 - In my spare time, you'll find me doing calligraphy and painting.
