@@ -22,7 +22,6 @@
 
 
 ## 🎓 About me
-- I love working in Backend and Cloud. I love building and breaking stuffs.
 - I'm AWS Community Builder🧡
 - I'm enthusiastic about what I do and I constantly learn new things. 
 - In my spare time, you'll find me doing calligraphy and painting.
@@ -48,9 +47,9 @@
 
  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /> 
 
-## Certification 🎓
+<!-- ## Certification 🎓
 
-- [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/badges/248af738-5b9c-42b2-84a7-ec1464541231/public_url) <br> <br>
+- [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/badges/248af738-5b9c-42b2-84a7-ec1464541231/public_url) <br> <br> -->
 
 ## 📈 GitHub Stats
 
