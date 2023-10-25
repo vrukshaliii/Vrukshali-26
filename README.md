@@ -1,4 +1,4 @@
-# Hey There!💚
+## Hey There!💚
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Vrukshali](https://www.linkedin.com/in/vrukshali-torawane)!
 
@@ -29,9 +29,9 @@
 - In my spare time, you'll find me doing calligraphy and painting.
 
 
-##  ✔ Technologies  -->
+##  ✔ Technologies
 
-<!-- ### Languages⚡
+### Languages⚡
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 ### Languages & Frameworks
